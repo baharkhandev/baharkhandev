@@ -1,4 +1,4 @@
-aeita amar git a add kora daw # 👋 Hi, I’m Bahar Khan
+👋 Hi, I’m Bahar Khan
 
 ## 🚀 About Me
 I’m a passionate **Flutter Developer** skilled in building responsive, scalable, and visually appealing mobile applications using **Dart** and modern frameworks. I am committed to leveraging cutting-edge technologies and best practices to deliver seamless cross-platform solutions with an exceptional user experience.
