@@ -5,23 +5,39 @@ I’m a passionate **Flutter Developer** skilled in building responsive, scalabl
 
 ---
 
-## 🛠️ Skills  
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-  <img src="https://img.shields.io/badge/Responsive%20UI-4CAF50?style=for-the-badge&logo=android&logoColor=white" alt="Responsive UI"/>
-  <img src="https://img.shields.io/badge/OOP%20Concepts-FF9800?style=for-the-badge&logo=code&logoColor=white" alt="OOP"/>
-  <img src="https://img.shields.io/badge/REST%20API-008000?style=for-the-badge&logo=postman&logoColor=white" alt="REST API"/>
-  <img src="https://img.shields.io/badge/GetX-7952B3?style=for-the-badge&logo=getx&logoColor=white" alt="GetX"/>
-  <img src="https://img.shields.io/badge/Provider-FF6F00?style=for-the-badge&logo=flutter&logoColor=white" alt="Provider"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Git-F34F29?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Go%20Router-4285F4?style=for-the-badge&logo=flutter&logoColor=white" alt="Go Router"/>
-  <img src="https://img.shields.io/badge/Offline%20Storage-FF4500?style=for-the-badge&logo=database&logoColor=white" alt="Offline Storage"/>
-  <img src="https://img.shields.io/badge/MVC%20Architecture-2C3E50?style=for-the-badge&logo=code&logoColor=white" alt="MVC Architecture"/>
-  <img src="https://img.shields.io/badge/Future%20Architecture-1E90FF?style=for-the-badge&logo=code&logoColor=white" alt="Future Architecture"/>
-</p>
+<!-- Technical Skills Section -->
+<h2>💻 Technical Skills</h2>
+<div style="display:flex; flex-wrap: wrap; gap: 15px; justify-content:center; align-items:center;">
+
+  <!-- Skill Item -->
+  <div style="display:flex; flex-direction:column; align-items:center; width:60px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" alt="Apple" width="40"/>
+    <span style="font-size:10px; margin-top:5px; text-align:center;">Apple</span>
+  </div>
+
+  <div style="display:flex; flex-direction:column; align-items:center; width:60px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="40"/>
+    <span style="font-size:10px; margin-top:5px; text-align:center;">Android</span>
+  </div>
+
+  <div style="display:flex; flex-direction:column; align-items:center; width:60px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="Flutter" width="40"/>
+    <span style="font-size:10px; margin-top:5px; text-align:center;">Flutter</span>
+  </div>
+
+  <div style="display:flex; flex-direction:column; align-items:center; width:60px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" alt="Dart" width="40"/>
+    <span style="font-size:10px; margin-top:5px; text-align:center;">Dart</span>
+  </div>
+
+  <div style="display:flex; flex-direction:column; align-items:center; width:60px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40"/>
+    <span style="font-size:10px; margin-top:5px; text-align:center;">GitHub</span>
+  </div>
+
+  <!-- Add more skills the same way -->
+</div>
+
  
 <h3 align="left">🔥   My Stats :</h3>
 
